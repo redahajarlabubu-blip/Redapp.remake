@@ -1,0 +1,5 @@
+# Copy to local.properties (never commit it) and fill in.
+sdk.dir=/path/to/Android/sdk
+SUPABASE_URL=https://YOUR-PROJECT.supabase.co
+SUPABASE_ANON_KEY=YOUR_SUPABASE_ANON_PUBLIC_KEY
+LIVEKIT_URL=wss://YOUR-PROJECT.livekit.cloud
